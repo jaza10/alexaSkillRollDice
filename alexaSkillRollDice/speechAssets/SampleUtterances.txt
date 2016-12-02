@@ -1,0 +1,9 @@
+GetNewNumberIntent roll a dice
+GetNewNumberIntent roll dice
+GetNewNumberIntent throw dice
+GetNewNumberIntent throw a dice
+GetNewNumberIntent dice please
+GetNewNumberIntent roll a dice again
+GetNewNumberIntent roll dice again
+GetNewNumberIntent once more
+GetNewNumberIntent one more time
